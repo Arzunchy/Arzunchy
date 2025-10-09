@@ -31,7 +31,7 @@ Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/arjun-chaudhary-3231712ba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-chaudhary-3231712ba)
 - 📧 Email: arzunchy338@gmail.com
 
 ---
