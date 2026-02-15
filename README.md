@@ -20,11 +20,6 @@ Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem
 - C++  
 ---
 
-## 📈 GitHub Stats
-
-![Arzunchy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arzunchy&show_icons=true&theme=tokyonight)
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arjun-chaudhary-3231712ba)
