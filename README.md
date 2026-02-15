@@ -1,27 +1,23 @@
 # 👋 Hello, I'm Arjun Chaudhary
 
-Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem solver who thrives on turning complexity into clarity. With a strong foundation in **Python**, **C++**, and **Data Structures & Algorithms**, I build solutions that are both elegant and efficient.
+Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem solver who thrives on turning complexity into clarity. With a strong foundation in **Python**, **C++**, and **AI/ML**, I build solutions that are both elegant and efficient.
 
 ---
 
-## 🚀 What I Do
-
-- 🧠 Solve real-world problems using data and logic  
-- 🐍 Write clean, scalable code in Python  
-- 💻 Build high-performance applications in C++  
-- 📊 Design and optimize algorithms for speed and precision  
-- 🔍 Explore patterns, trends, and insights hidden in data  
+## Core Strengths
+- Data exploration and insight generation  
+- Statistical and analytical problem solving  
+- Machine learning model experimentation  
+- Dashboarding and visual storytelling  
+- Practical, project-driven learning approach  
 
 ---
 
-## 🛠️ Tech Stack
-
-| Language | Tools & Libraries | Concepts |
-|---------|-------------------|----------|
-| Python  | NumPy, Pandas, Matplotlib, Scikit-learn | Machine Learning, Data Analysis |
-| C++     | STL, OOP, Competitive Programming | System Design, Performance Optimization |
-| DSA     | Trees, Graphs, DP, Sorting, Searching | Time Complexity, Space Optimization |
-
+## Tech Stack
+**Languages & Tools**
+- Python  
+- SQL
+- C++  
 ---
 
 ## 📈 GitHub Stats
