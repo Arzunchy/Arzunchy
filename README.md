@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arjun Chaudhary
 
-Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem solver who thrives on turning complexity into clarity. With a strong foundation in **Python**, **C++**, and **AI/ML**, I build solutions that are both elegant and efficient.
+Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem solver who thrives on turning complexity into clarity. With a strong foundation in **Python**, **SQL** and **AI/ML**, I build solutions that are both elegant and efficient.
 
 ---
 
