@@ -18,7 +18,7 @@ Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem
 - Python  
 - SQL
 - C++
-- AI  
+- AI/ML  
 ---
 
 ## 📫 Let's Connect
