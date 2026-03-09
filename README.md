@@ -9,7 +9,7 @@ Welcome to my digital workspace! I'm a passionate **Data Scientist** and problem
 - Statistical and analytical problem solving  
 - Machine learning model experimentation  
 - Dashboarding and visual storytelling  
-- Practical, project-driven learning approach  
+- Practical, project-driven learning approach with more analysis
 
 ---
 
