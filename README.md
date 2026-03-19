@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arzunchy-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Arzunchy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ccff?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/arjun-chaudhary8848)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ccff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/arjun-chaudhary8848)
 [![Email](https://img.shields.io/badge/Email-arzunchy338-7b2fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzunchy338@gmail.com)
 
 </div>
@@ -173,7 +173,7 @@ class ArjunChaudhary:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arjun-chaudhary8848)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-chaudhary8848)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/SEND_A_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzunchy338@gmail.com)
 
